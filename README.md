@@ -23,5 +23,5 @@ Tailwind CSS · Docker · Vercel · MercadoPago · Claude API
 
 ## Contacto
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/diego-pistorio)
+- 💼 [LinkedIn](https://www.linkedin.com/in/diego-pistorio-/)
 - 📧 diepistorio@gmail.com
