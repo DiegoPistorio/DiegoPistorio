@@ -16,7 +16,7 @@ Soy **Desarrollador Full Stack** de Buenos Aires, Argentina. Construyo aplicacio
 
 ```
 Next.js · TypeScript · PostgreSQL · SQL Server
-Tailwind CSS · Docker · Vercel · MercadoPago · Claude API
+Tailwind CSS · Docker · Coolify · MercadoPago · Claude API
 ```
 
 ---
